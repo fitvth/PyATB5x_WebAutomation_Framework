@@ -4,8 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e747d70b-d0f0-4533-8386-ef489e0d2c34" name="Changes" comment="17-09-2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="e747d70b-d0f0-4533-8386-ef489e0d2c34" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PyATB5x_WebAutomation_Framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/PageObjects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/constants/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests/Katalon_Studio_Project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests/Sample/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests/Sample/test_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests/Sample/test_vwo_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests/VWO_Login_Project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/utils/Utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/utils/__init__.py" afterDir="false" />
+>>>>>>> 8c1d488ffc6fb0020f814ecf10bbb17780b01fd5
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +45,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
@@ -34,6 +58,8 @@
     &quot;accountId&quot;: &quot;29724bcb-16b6-4a85-af85-5cb29fe54c82&quot;
   }
 }</component>
+=======
+>>>>>>> 8c1d488ffc6fb0020f814ecf10bbb17780b01fd5
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -51,7 +77,11 @@
     &quot;Python tests.Python tests for test_vwo_login.test_vwo_login_negative.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+<<<<<<< HEAD
     &quot;git-widget-placeholder&quot;: &quot;Merging master&quot;
+=======
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+>>>>>>> 8c1d488ffc6fb0020f814ecf10bbb17780b01fd5
   }
 }</component>
   <component name="RunManager">
@@ -92,6 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758008499572</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00001" summary="17-09-2025">
       <option name="closed" value="true" />
       <created>1758096595181</created>
@@ -139,4 +170,8 @@
     <MESSAGE value="17-09-2025" />
     <option name="LAST_COMMIT_MESSAGE" value="17-09-2025" />
   </component>
+=======
+    <servers />
+  </component>
+>>>>>>> 8c1d488ffc6fb0020f814ecf10bbb17780b01fd5
 </project>
